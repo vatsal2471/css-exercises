@@ -1,0 +1,20 @@
+/* Styles.css */
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjustfont {
+    font-size: 24px;
+}
+
+.nirali {
+    background-color: green;
+    font-weight: bold;
+}
